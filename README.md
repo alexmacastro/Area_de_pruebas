@@ -1,0 +1,2 @@
+# yayetes
+Verificaciones iniciales
